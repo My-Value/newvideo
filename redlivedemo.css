@@ -4,7 +4,7 @@ html {
   }
   .wrap {
     overflow: hidden;
-    /* background-image: url(../img/livedemo-background.png); */
+    /* background-image: url(livedemo-background.png); */
     background-image: url(redlivedemo-background.png);
   }
   .topbar {
