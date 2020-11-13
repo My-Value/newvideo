@@ -1,2 +1,2 @@
 # newvideo
-testnewdayprojec
+testnewdayproj
